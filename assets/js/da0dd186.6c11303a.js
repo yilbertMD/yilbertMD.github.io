@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_dokku_website=self.webpackChunkmy_dokku_website||[]).push([[8056],{2992:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/yilbertMD.github.io/blog/tags/hola","allTagsPath":"/yilbertMD.github.io/blog/tags","count":1}')}}]);

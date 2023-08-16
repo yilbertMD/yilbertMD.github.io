@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_dokku_website=self.webpackChunkmy_dokku_website||[]).push([[9965],{6439:e=>{e.exports=JSON.parse('{"permalink":"/yilbertMD.github.io/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
